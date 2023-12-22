@@ -9,4 +9,7 @@ or just click https://github.com/Velocidex/velociraptor/releases
 then download the following file
 <OS>.msi
 <OS>.exe
-velociraptor.<compressed>
+velociraptor.<compressed>	
+
+
+https://www.youtube.com/watch?v=EA40rztSOd4&t=602s
