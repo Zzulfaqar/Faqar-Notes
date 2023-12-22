@@ -1,0 +1,12 @@
+Running velociraptor easily
+
+Go to the repository 
+https://github.com/Velocidex/velociraptor
+
+press release 
+or just click https://github.com/Velocidex/velociraptor/releases
+
+then download the following file
+<OS>.msi
+<OS>.exe
+velociraptor.<compressed>
