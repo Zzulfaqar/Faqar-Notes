@@ -21,5 +21,5 @@ echo "$number" > log.txt
 git add .
 git status
 git commit -m "edit and auto launch scripted $number"
-git push -u origin main
+git push -u origin master
 
